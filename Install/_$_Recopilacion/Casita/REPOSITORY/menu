@@ -119,7 +119,7 @@ echo "${texto[$@]}"
 fi
 }
 atualiza_fun () {
-wget wget https://raw.githubusercontent.com/scriptsmx/mxvps/master/vps-mx-free/instalscript.sh &> /dev/null; chmod 777 instalscript.sh* && ./instalscript.sh*
+wget wget https://raw.githubusercontent.com/scriptsmx/mxvps/master/VPS-MX/instalscript.sh &> /dev/null; chmod 777 instalscript.sh* && ./instalscript.sh*
 msg -bar2
 }
 funcao_idioma () {

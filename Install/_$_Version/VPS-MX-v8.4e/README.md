@@ -3,7 +3,7 @@
 * UPDATE 24/11/2021 - Proyecto Finalizado
 * VPS-MX Manager (Final Version VPS-MX Manager)
 ```
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MX-FREE/blob/main/Imagenes/VPS-MX-Free.png)
+![logo](https://github.com/info-devf5r/VPS-MX/blob/main/Imagenes/VPS-MX.png)
 
 **Manager Script**
 
@@ -18,7 +18,7 @@
 
 ## :book: Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MX-FREE/main/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/info-devf5r/VPS-MX/main/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
 
 ```
 VPS-MX (las dependencias faltantes se instalarán automáticamente)
@@ -29,7 +29,7 @@ VPS-MX (las dependencias faltantes se instalarán automáticamente)
 
 **VERSION: 8.4e**
 
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MX-FREE/main/Version
+https://raw.githubusercontent.com/info-devf5r/VPS-MX/main/Version
 
 ## :octocat: Credits
 
@@ -37,8 +37,8 @@ https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MX-FREE/main/Versio
 2. [@Kalix1 - Developer of VPS-MX](https://github.com/VPS-MX)
 3. [@Rufu99 - Contributor](https://github.com/rudi9999)
 4. [Casita Dev Team - Contributor](https://github.com/lacasitamx)
-5. [illuminati Dev Team - Contributor](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ) 
+5. [illuminati Dev Team - Contributor](https://github.com/info-devf5r) 
 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+☆ https://t.me/info-devf5r [  ⃘⃤꙰✰ ] ☆
 ```
